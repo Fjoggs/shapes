@@ -1,0 +1,4 @@
+*
+!.gitignore
+!shapes-*.map
+shapes-*.autosave.map
