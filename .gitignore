@@ -1,4 +1,5 @@
 *
 !.gitignore
 !shapes-*.map
+!compile_settings.txt
 shapes-*.autosave.map

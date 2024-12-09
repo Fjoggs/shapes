@@ -1,0 +1,3 @@
+[q3map2] -meta "[MapFile]"
+[q3map2] -vis -saveprt "[MapFile]"
+[q3map2] -light -bounce 8 -fastbounce -dark -dirtdepth 32 -dirtscale 3 -dirty -patchshadows -samples 3 - -scale 1.2 -shade -cpma "[MapFile]"
