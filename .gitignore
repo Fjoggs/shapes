@@ -1,5 +1,5 @@
 *
 !.gitignore
-!shapes-*.map
+!fjoct3dm1*.map
 !compile_settings.txt
-shapes-*.autosave.map
+fjoct3dm1*.autosave.map
